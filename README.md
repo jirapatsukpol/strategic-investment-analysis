@@ -74,6 +74,3 @@ This is a hypothetical case study created for analytical and portfolio purposes.
 - `screenshots/` — Dashboard screenshots
 - `README.md` — Project documentation
 
-## Author
-
-Financial analysis portfolio project focused on investment evaluation, financial modeling, and business decision support.
