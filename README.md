@@ -74,3 +74,6 @@ This is a hypothetical case study created for analytical and portfolio purposes.
 - `screenshots/` — Dashboard screenshots
 - `README.md` — Project documentation
 
+## Dashboard Preview
+
+![Power BI Investment Dashboard](screenshots/investment-dashboard.png)
